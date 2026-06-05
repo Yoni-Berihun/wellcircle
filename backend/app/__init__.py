@@ -1,0 +1,1 @@
+"""WellaTribe FastAPI Application"""
