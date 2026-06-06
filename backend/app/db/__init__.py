@@ -1,1 +1,1 @@
-"""Database configuration and models"""
+"""DB utilities."""
