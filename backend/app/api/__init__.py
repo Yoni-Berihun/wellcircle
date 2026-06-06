@@ -1,1 +1,1 @@
-"""API routers for WellaTribe"""
+"""API routes package."""
